@@ -19,15 +19,15 @@ Bring It On
     Merge the feature branch in master
     Return to feature and create the arrows.txt file with the following contents:
 
-     "The ship glides gently on the waves
-     As day turns into night"
+    "The ship glides gently on the waves
+    As day turns into night"
 
     Make a commit.
 
     Go to master. Create the arrows.txt file there and add the following text:
 
-     "One thousand burning arrows
-     Fill the starlit sky"
+    "One thousand burning arrows
+    Fill the starlit sky"
 
     Make a commit.
     Merge feature in master resolving the conflict: save all 4 lines in arrows.txt file in the order they were added in steps 4 and 5.
@@ -40,15 +40,15 @@ Hurt Me Plenty
 
     Add 2 more lines to storm.txt and make another commit:
 
-     "They left their shores at early dawn
-      As a red sun was rising in the east"
+    "They left their shores at early dawn
+    As a red sun was rising in the east"
 
     Return to master and create the pursuit.txt file with the text below:
 
-     "The warming sun returns again
-     And melts away the snow
-     The sea is freed from icy chains
-     Winter is letting go"
+    "The warming sun returns again
+    And melts away the snow
+    The sea is freed from icy chains
+    Winter is letting go"
     
     Make a commit.
     Mark the commit with session1 tag and go to the storm branch.
